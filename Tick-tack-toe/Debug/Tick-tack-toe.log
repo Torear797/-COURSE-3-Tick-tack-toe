@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(147): warning C4101: Msg: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(197): warning C4101: Msg: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(400): warning C4101: gdiplusStartupOutput: неиспользованная локальная переменная
+  Tick-tack-toe.vcxproj -> E:\Programs\YandexDisk\Projects C#\Tick-tack-toe\Debug\Tick-tack-toe.exe

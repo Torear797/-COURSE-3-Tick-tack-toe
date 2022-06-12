@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(147): warning C4101: Msg: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(197): warning C4101: Msg: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\tick-tack-toe\tick-tack-toe\main.cpp(401): warning C4101: gdiplusStartupOutput: неиспользованная локальная переменная
+  Создание кода
+  4 of 152 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Tick-tack-toe.vcxproj -> E:\Programs\YandexDisk\Projects C#\Tick-tack-toe\Release\Tick-tack-toe.exe
